@@ -11,6 +11,11 @@ public class Person {
         this.name = name;
     }
 
+    @Override
+    public String toString() {
+        return "Name: " + name + " - Age: " + age + " - Hair color: " + hairColor + " - Eye color: " + eyeColor;
+    }
+
     public String getName() {
         return name;
     }
