@@ -3,6 +3,7 @@
 Sample code for some Java patterns. All are written using Java 1.8.
 
 1. [Factory pattern](src/main/java/com/juanghurtado/javapatterns/factory/)
+2. [Builder pattern](src/main/java/com/juanghurtado/javapatterns/builder/)
 
 ## Contributing
 
