@@ -6,6 +6,7 @@ Sample code for some Java patterns. All are written using Java 1.8.
 2. [Builder pattern](src/main/java/com/juanghurtado/javapatterns/builder/)
 3. [Observer pattern (using Java Observable)](src/main/java/com/juanghurtado/javapatterns/observer/java/)
 4. [Observer pattern (custom implementation)](src/main/java/com/juanghurtado/javapatterns/observer/custom/)
+5. [Adapter pattern](src/main/java/com/juanghurtado/javapatterns/adapter/)
 
 ## Contributing
 
